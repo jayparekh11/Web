@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "TESTAssignment 9",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
